@@ -56,7 +56,7 @@ public static void main(String args[])
     System.out.println("Number of slices left                               :"+RemainSlices);
     
     sc.close();
-}
+	}
     
     
 }
