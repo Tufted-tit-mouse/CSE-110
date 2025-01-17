@@ -136,6 +136,6 @@ public class Assignment4
         // Close the scanner class
         sc.close();
         return average; 
-    }
+     }
 
 }
