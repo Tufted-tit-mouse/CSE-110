@@ -60,6 +60,6 @@ public class Assignment2
         
         //Scanner Close
         sc.close(); 
-    }
+     }
 
 }
